@@ -1,6 +1,6 @@
 // Zona de Riesgo · copia sin conexión
 // Al cambiar el juego, sube también este archivo con el número de versión aumentado.
-const CACHE = 'zona-de-riesgo-v1';
+const CACHE = 'zona-de-riesgo-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
